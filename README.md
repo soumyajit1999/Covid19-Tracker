@@ -1,3 +1,8 @@
+## Deployed with Firebase
+Link: https://covid-19-a8b97.web.app
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
